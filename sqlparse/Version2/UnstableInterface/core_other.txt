@@ -1,3 +1,0 @@
-sqlparse/tokens.pysqlparse/compat.pysqlparse/__init__.py
-sqlparse/filters/__init__.pysqlparse/engine/grouping.pysqlparse/exceptions.pysqlparse/lexer.pysqlparse/cli.pysqlparse/formatter.pysqlparse/filters/aligned_indent.pysqlparse/filters/right_margin.pysqlparse/sql.pysqlparse/keywords.pysqlparse/filters/others.pysqlparse/engine/statement_splitter.pysqlparse/engine/filter_stack.pysqlparse/filters/tokens.pysqlparse/filters/reindent.pysqlparse/__main__.pysqlparse/filters/output.pysqlparse/engine/__init__.pysqlparse/utils.py
-*
