@@ -13,3 +13,6 @@ Finally, entering a specific anti-pattern folder(e.g. https://github.com/2021iss
 ### Tool
 
 You can use [DV8](https://archdia.com/) to open the $anti-pattern$.dv8-issue.
+
+### Formula of root file
+The definition and the formal descriptions of root file are displayed in **formula.pdf**. At the same time, we visualize the recognition of **root file** in this file. 
